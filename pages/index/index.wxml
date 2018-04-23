@@ -1,4 +1,5 @@
 <!--index.wxml-->
 <view class="container">
-Hello World
+<import src="../template/index.wxml"/>
+<template is="item"/>
 </view>

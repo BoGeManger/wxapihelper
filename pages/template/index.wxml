@@ -1,0 +1,4 @@
+<!--pages/template/index.wxml-->
+<template name="item">
+  <text>text</text>
+</template>
